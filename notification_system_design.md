@@ -38,3 +38,5 @@ Priority mapping used in code:
 ### Stage 1 terminal output
 ![Stage 1 terminal output](screenshots/stage1-terminal-output.png)
 
+### Frontend notifications
+![Frontend output](screenshots/frontend.png)
